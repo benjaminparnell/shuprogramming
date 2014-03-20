@@ -1,5 +1,4 @@
 #SHU Programming
-================
 
 ##Presentations - 30 mins max each week
 Some ideas...
@@ -38,15 +37,15 @@ Talking about ideas.
 
 ###Register - 20/03/14
 
-Ryan R.
-Rowell H.
-Jacob B.
-Tom H.
-Curtis B.
-Josh B.
-Chad Sr.
-Martyn R.
-Henry R.
-Luke S.
-Tom S.
-Ben P.
+- Ryan R.
+- Rowell H.
+- Jacob B.
+- Tom H.
+- Curtis B.
+- Josh B.
+- Chad Sr.
+- Martyn R.
+- Henry R.
+- Luke S.
+- Tom S.
+- Ben P.
