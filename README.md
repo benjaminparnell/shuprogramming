@@ -18,7 +18,7 @@ __Members List__
 - [Rowell Heria](https://github.com/rowellheria)
 - [Benjamin Parnell](https://github.com/benjaminparnell)
 - Henry Rowland
-- [Martyn Rushton](https://github.com/rowellheria)
+- [Martyn Rushton](https://github.com/martynrushton)
 - Ryan Robinson
 - Luke Segaran
 - Chad Simpson
