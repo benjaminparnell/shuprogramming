@@ -11,15 +11,15 @@ All of our code, presentations and notes can be found in this repositary.
 
 ---
 __Members List__
--Curtis Baily
--Josh Bates
--Jacob Burns
--Tom Hanson
--[Rowell Heria](https://github.com/rowellheria)
--[Benjamin Parnell](https://github.com/benjaminparnell)
--Henry Rowland
--[Martyn Rushton](https://github.com/rowellheria)
--Ryan R
--Luke Segaran
--Chad Simpson
--Tom Sugarev
+- Curtis Baily
+- Josh Bates
+- Jacob Burns
+- Tom Hanson
+- [Rowell Heria](https://github.com/rowellheria)
+- [Benjamin Parnell](https://github.com/benjaminparnell)
+- Henry Rowland
+- [Martyn Rushton](https://github.com/rowellheria)
+- Ryan R
+- Luke Segaran
+- Chad Simpson
+- Tom Sugarev
