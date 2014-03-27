@@ -23,3 +23,4 @@ __Members List__
 - Luke Segaran
 - Chad Simpson
 - Tom Sugarev
+- [Scott Spittle] (https://github.com/ScottSpittle)
