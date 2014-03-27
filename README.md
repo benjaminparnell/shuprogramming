@@ -16,6 +16,7 @@ __Members List__
 - [Jacob Burns](https://github.com/jacobburns)
 - Tom Hanson
 - [Rowell Heria](https://github.com/rowellheria)
+- [Brandon Murdoch](https://github.com/Bammurdo)
 - [Benjamin Parnell](https://github.com/benjaminparnell)
 - Henry Rowland
 - [Martyn Rushton](https://github.com/martynrushton)
