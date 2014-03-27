@@ -19,7 +19,7 @@ __Members List__
 - [Benjamin Parnell](https://github.com/benjaminparnell)
 - Henry Rowland
 - [Martyn Rushton](https://github.com/martynrushton)
-- Ryan Robinson
+- [Ryan Robinson](https://github.com/RyRobo)
 - Luke Segaran
 - Chad Simpson
 - Tom Sugarev
