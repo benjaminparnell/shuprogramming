@@ -13,7 +13,7 @@ All of our code, presentations and notes can be found in this repositary.
 __Members List__
 - Curtis Baily
 - Josh Bates
-- Jacob Burns
+- [Jacob Burns](https://github.com/jacobburns)
 - Tom Hanson
 - [Rowell Heria](https://github.com/rowellheria)
 - [Benjamin Parnell](https://github.com/benjaminparnell)
