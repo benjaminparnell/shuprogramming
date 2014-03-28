@@ -11,10 +11,10 @@ All of our code, presentations and notes can be found in this repositary.
 
 ---
 __Members List__
-- Curtis Baily
+- [Curtis Baily](https://github.com/CurtisBaily)
 - Josh Bates
 - [Jacob Burns](https://github.com/jacobburns)
-- Tom Hanson
+- [Tom Hanson](https://github.com/iTomHanson)
 - [Rowell Heria](https://github.com/rowellheria)
 - [Brandon Murdoch](https://github.com/Bammurdo)
 - [Benjamin Parnell](https://github.com/benjaminparnell)
