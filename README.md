@@ -25,3 +25,4 @@ __Members List__
 - Chad Simpson
 - Tom Sugarev
 - [Scott Spittle] (https://github.com/ScottSpittle)
+- [Luke Ward] (https://github.com/Lukeeward)
