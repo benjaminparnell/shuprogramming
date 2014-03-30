@@ -7,12 +7,15 @@ Shu Programming is a computer programming club at Sheffield Hallam University fo
 Our aim is to spread our knowledge between the best and most motivated students at our university. We currently hold weekly sessions where we have presentations about the most requested topics and then brainstorm and implement some of our ideas.
 
 
+The Facebook group page can be viewed [here](https://www.facebook.com/groups/659319207467018/).
+
+
 All of our code, presentations and notes can be found in this repositary.
 
 ---
 __Members List__
 - [Curtis Baily](https://github.com/CurtisBaily)
-- Josh Bates
+- [Josh Bates](https://github.com/JoBa1992)
 - [Jacob Burns](https://github.com/jacobburns)
 - [Tom Hanson](https://github.com/iTomHanson)
 - [Rowell Heria](https://github.com/rowellheria)
