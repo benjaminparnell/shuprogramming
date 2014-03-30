@@ -19,6 +19,7 @@ __Members List__
 - [Jacob Burns](https://github.com/jacobburns)
 - [Tom Hanson](https://github.com/iTomHanson)
 - [Rowell Heria](https://github.com/rowellheria)
+- Mike Meredith
 - [Brandon Murdoch](https://github.com/Bammurdo)
 - [Benjamin Parnell](https://github.com/benjaminparnell)
 - [Henry Rowland](https://github.com/hens-row)
