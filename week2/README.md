@@ -29,3 +29,4 @@ Git and Github - [Ben](http://github.com/benjaminparnell)
 - Luke W.
 - Ryan R.
 - Mike M.
+- Scott S.
