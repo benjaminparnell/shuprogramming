@@ -3,8 +3,11 @@
 ##Presentations from this week
 
 iOS development - [Tom](), [Jacob](), [Curtis]()
+Slides + code on the way
 
 Git and Github - [Ben](http://github.com/benjaminparnell)
+[Slides here.](http://slid.es/benjaminparnell/introduction-to-git)
+[Ben's git-instructions](https://gist.github.com/benjaminparnell/9631081)
 
 ##Next week?
 
@@ -26,3 +29,4 @@ Git and Github - [Ben](http://github.com/benjaminparnell)
 - Luke W.
 - Ryan R.
 - Mike M.
+- Scott S.
