@@ -30,3 +30,23 @@ __[Ben Parnell](http://github.com/benjaminparnell)__
 
 _Skills_:
 JavaScript, CoffeeScript, Java, Ruby, C++, Git, Web Dev.
+
+---
+
+__[Rowell Heria](http://github.com/rowellheria)__
+
+_Skills_:
+- HTML + CSS (5)
+- HAML + SASS (4)
+- UI/UX (4)
+- PHP (3)
+- Java (3)
+- C++ (3)
+- C# (3)
+- AJAX (2)
+
+_Resources_:
+- iPhone
+- iOS Developer Certificate (Expires Sept. 2014)
+- Raspberry Pi
+- Web Server
