@@ -30,3 +30,22 @@ __[Ben Parnell](http://github.com/benjaminparnell)__
 
 _Skills_:
 JavaScript, CoffeeScript, Java, Ruby, C++, Git, Web Dev.
+
+__Scott Spittle__
+
+_Skills_:
+- HTML/5 / CSS
+- PHP
+- SQL
+- Java / Android (small amounr)
+- Javascript
+- c++
+- c#
+- Small amount of MVC4
+
+_Resources_:
+- HTC One
+- Raspberry Pi
+- Web Hosting / MySQL Db / other web services
+
+---
