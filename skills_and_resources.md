@@ -1,6 +1,8 @@
 #Skills and Resources
 
-This file will contain the skills that you currently have and the resources that you are willing to allow the group to use. 
+_This file will contain the skills that you currently have and the resources that
+ you are willing to allow the group to use._
+
 ---
 
 __Martyn Rushton__
@@ -21,3 +23,10 @@ _Resources_:
 - Nexus 7
 - Arduino + Components
 - Rasperry Pi
+
+---
+
+__[Ben Parnell](http://github.com/benjaminparnell)__
+
+_Skills_:
+JavaScript, CoffeeScript, Java, Ruby, C++, Git, Web Dev.
