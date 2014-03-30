@@ -18,7 +18,7 @@ __Members List__
 - [Rowell Heria](https://github.com/rowellheria)
 - [Brandon Murdoch](https://github.com/Bammurdo)
 - [Benjamin Parnell](https://github.com/benjaminparnell)
-- Henry Rowland
+- [Henry Rowland](https://github.com/hens-row)
 - [Martyn Rushton](https://github.com/martynrushton)
 - [Ryan Robinson](https://github.com/RyRobo)
 - Luke Segaran
