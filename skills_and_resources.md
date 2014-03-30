@@ -1,11 +1,10 @@
 #Skills and Resources
 
-_This file will contain the skills that you currently have and the resources that
- you are willing to allow the group to use._
+_This file will contain the skills that you currently have and the resources that you are willing to allow the group to use._
 
 ---
 
-__Martyn Rushton__
+__[Martyn Rushton](http://github.com/martynrushton)__
 
 _Skills_:
 - Python (5)
