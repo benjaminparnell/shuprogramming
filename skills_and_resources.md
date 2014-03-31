@@ -30,17 +30,17 @@ __[Ben Parnell](http://github.com/benjaminparnell)__
 _Skills_:
 JavaScript, CoffeeScript, Java, Ruby, C++, Git, Web Dev.
 
-__Scott Spittle__
+__[Scott Spittle](https://github.com/ScottSpittle)
 
 _Skills_:
-- HTML/5 / CSS
-- PHP
-- SQL
-- Java / Android (small amounr)
-- Javascript
-- c++
-- c#
-- Small amount of MVC4
+- HTML/5 / CSS (5)
+- PHP (3)
+- SQL (3)
+- Java / Android (2)
+- Javascript (2)
+- C++ (3)
+- C# (3)
+- MVC4 (1)
 
 _Resources_:
 - HTC One
@@ -66,3 +66,42 @@ _Resources_:
 - iOS Developer Certificate (Expires Sept. 2014)
 - Raspberry Pi
 - Web Server
+
+---
+
+__[Joshua Bates](https://github.com/JoBa1992)__
+
+_Skills_:
+- HTML + CSS (5)
+- PHP (4)
+- Javascript/JQuery (4)
+- AJAX / JSON (4)
+- SQL (4)
+- Problem Solving (4)
+- C++ (3)
+- Git (2)
+- Java (3)
+- C# (3)
+- ASP.NET (2)
+
+_Resources_:
+- iPhone
+- [Web Server](http://joshuabates.co.uk)
+- MacBook (Xcode)
+
+---
+
+__[Brandon Murdoch](http://github.com/Bammurdo)__
+
+_Skills_:
+- HTML5 + CSS (5)
+- JS (+ jQuery) (5)
+- PHP (5)
+- SQL (5)
+- C++ (4)
+- JAVA (+ Android) (3, 2)
+- C# (+ ASP.net) (2)
+- Git (1)
+
+_Resources_:
+- iPhone 4
