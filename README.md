@@ -10,7 +10,7 @@ Our aim is to spread our knowledge between the best and most motivated students 
 The Facebook group page can be viewed [here](https://www.facebook.com/groups/659319207467018/).
 
 
-All of our code, presentations and notes can be found in this repositary.
+ All of our code, presentations and notes can be found in this repositary.
 
 ---
 __Members List__

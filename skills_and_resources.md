@@ -125,6 +125,6 @@ _Skills_:
 _Resources_:
 - Android Devices (Galaxy Note 10.1 and Galaxy Mini)
 - Mindstorms EV3
-- Kinect for Windows Sensor
+- Kinect for Windows Device
 
 ---
