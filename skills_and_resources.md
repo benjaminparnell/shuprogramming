@@ -90,3 +90,18 @@ _Resources_:
 - MacBook (Xcode)
 
 ---
+
+__[Brandon Murdoch](http://github.com/Bammurdo)__
+
+_Skills_:
+- HTML5 + CSS (5)
+- JS (+ jQuery) (5)
+- PHP (5)
+- SQL (5)
+- C++ (4)
+- JAVA (+ Android) (3, 2)
+- C# (+ ASP.net) (2)
+- Git (1)
+
+_Resources_:
+- iPhone 4
