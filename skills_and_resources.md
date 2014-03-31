@@ -66,3 +66,27 @@ _Resources_:
 - iOS Developer Certificate (Expires Sept. 2014)
 - Raspberry Pi
 - Web Server
+
+---
+
+__[Joshua Bates](https://github.com/JoBa1992)__
+
+_Skills_:
+- HTML + CSS (5)
+- PHP (4)
+- Javascript/JQuery (4)
+- AJAX / JSON (4)
+- SQL (4)
+- Problem Solving (4)
+- C++ (3)
+- Git (2)
+- Java (3)
+- C# (3)
+- ASP.NET (2)
+
+_Resources_:
+- iPhone
+- [Web Server](http://joshuabates.co.uk)
+- MacBook (Xcode)
+
+---
