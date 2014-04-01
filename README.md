@@ -26,7 +26,7 @@ __Members List__
 - [Martyn Rushton](https://github.com/martynrushton)
 - [Ryan Robinson](https://github.com/RyRobo)
 - Luke Segaran
-- Chad Simpson
+- [Chad Simpson](https://github.com/Drshockalot)
 - Tom Sugarev
 - [Scott Spittle] (https://github.com/ScottSpittle)
 - [Shaun Webb] (https://github.com/TehWebby)
