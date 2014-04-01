@@ -139,7 +139,9 @@ _Skills_:
 - SQL (3.5)
 - PHP (4)
 - ASP.NET (2)
+
 _Resources_:
 - HTC One
+
 _Outstanding Attributes_:
 - American (5)
