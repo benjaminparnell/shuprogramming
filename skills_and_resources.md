@@ -129,7 +129,7 @@ _Resources_:
 
 __[Chad Simpson](http://github.com/Drshockalot)__
 
-__Skills_:
+_Skills_:
 - C++ (4.5)
 - Java (4)
 - C# (3.5)
@@ -139,7 +139,7 @@ __Skills_:
 - SQL (3.5)
 - PHP (4)
 - ASP.NET (2)
-__Resources_:
+_Resources_:
 - HTC One
-__Outstanding Attributes_:
+_Outstanding Attributes_:
 - American (5)
