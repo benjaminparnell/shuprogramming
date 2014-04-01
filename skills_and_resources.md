@@ -126,3 +126,20 @@ _Resources_:
 - Android Devices (Galaxy Note 10.1 and Galaxy Mini)
 - Mindstorms EV3
 - Kinect for Windows Device
+
+__[Chad Simpson](http://github.com/Drshockalot)__
+
+_Skills_:
+- C++ (4.5)
+- Java (4)
+- C# (3.5)
+- HTML (4)
+- CSS (3.5)
+- Javascript (3.5)
+- SQL (3.5)
+- PHP (4)
+- ASP.NET (2)
+_Resources_:
+- HTC One
+_Outstanding Attributes_:
+- American (5)
