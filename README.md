@@ -31,3 +31,4 @@ __Members List__
 - [Scott Spittle] (https://github.com/ScottSpittle)
 - [Shaun Webb] (https://github.com/TehWebby)
 - [Luke Ward] (https://github.com/Lukeeward)
+- [Luke Blakeley] (https://github.com/SlimShadyLou)

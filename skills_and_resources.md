@@ -145,3 +145,18 @@ _Resources_:
 
 _Outstanding Attributes_:
 - American (5)
+
+
+__[Luke Blakeley](https://github.com/SlimShadyLou)__
+
+_Skills_:
+- C++ (3)
+- C# (3)
+- Android (2)
+- Java (2)
+- HTML/CSS (3)
+
+_Resources_:
+- Samsung Galaxy Note 3
+- Raspberry Pi
+- MacBook Air (Xcode)
