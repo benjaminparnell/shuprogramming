@@ -105,3 +105,24 @@ _Skills_:
 
 _Resources_:
 - iPhone 4
+
+__[Michael Meredith](http://github.com/mjmeredith)__
+
+_Skills_:
+- C/C++ inc. Win32 and Kinect SDK (4.5)
+- Java and Android (4.5)
+- Assembly: x86 & ARM (4.5)
+- JSP (4.5)
+- MySQL (4.5)
+- PHP (2)
+- HTML and CSS (4)
+- JavaScript (2)
+- Networking (4)
+- Multithreading (4.5)
+- OpenGL and Augmented Reality (4.5)
+- Maths and Problem Solving (5)
+
+_Resources_:
+- Android Devices (Galaxy Note 10.1 and Galaxy Mini)
+- Mindstorms EV3
+- Kinect for Windows Device
