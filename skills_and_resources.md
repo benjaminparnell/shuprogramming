@@ -160,3 +160,24 @@ _Resources_:
 - Samsung Galaxy Note 3
 - Raspberry Pi
 - MacBook Air (Xcode)
+
+__[Shaun Webb](https://github.com/TehWebby)__
+
+_Skills_:
+- C++ (3)
+- C# and Unity (4.5, 3)
+- Java and Android (4, 3)
+- PHP (4)
+- HTML and CSS (5)
+- JavaScript and jQuery (4)
+- Linux (3)
+- Git (0.1337)
+
+_Resources_:
+- Android Devices (Nexus 10, Samsung Galaxy S3)
+- Raspberry Pi
+- Pololu 3pi
+- Arduino (UNO)
+- Web Server
+
+
