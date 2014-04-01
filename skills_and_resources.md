@@ -126,3 +126,17 @@ _Resources_:
 - Android Devices (Galaxy Note 10.1 and Galaxy Mini)
 - Mindstorms EV3
 - Kinect for Windows Device
+
+__[Luke Blakeley](https://github.com/SlimShadyLou)__
+
+_Skills_:
+- C++ (3)
+- C# (3)
+- Android (2)
+- Java (2)
+- HTML/CSS (3) 
+
+_Resources_:
+- Samsung Galaxy Note 3
+- Raspberry Pi
+- MacBook Air (Xcode)
