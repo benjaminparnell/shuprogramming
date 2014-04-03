@@ -32,3 +32,4 @@ __Members List__
 - [Shaun Webb] (https://github.com/TehWebby)
 - [Luke Ward] (https://github.com/Lukeeward)
 - [Luke Blakeley] (https://github.com/SlimShadyLou)
+- [Joseph Tetzlaff-Deas] (https://github.com/jtetzlaffdeas)
