@@ -1,10 +1,8 @@
 #SHUProg 03/04/2014
----
+
 ##Agenda
 
 This week we will be discussing the projects that we would like to do. These can be found in projects.md .
-
-
 ###Register
 - Jacob
 - Curtis
