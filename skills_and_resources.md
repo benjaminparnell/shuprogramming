@@ -180,4 +180,15 @@ _Resources_:
 - Arduino (UNO)
 - Web Server
 
+__[Joseph Tetzlaff-Deas](https://github.com/jtetzlaffdeas)__
 
+_Skills_:
+- C++ (2.5)
+- C# (2)
+- Unity, C# (2)
+- Java, Android (2)
+
+_Resources_:
+- An iPhone. An old one.
+- Raspberry Pi
+- The number 2
