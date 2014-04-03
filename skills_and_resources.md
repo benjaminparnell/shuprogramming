@@ -28,7 +28,18 @@ _Resources_:
 __[Ben Parnell](http://github.com/benjaminparnell)__
 
 _Skills_:
-JavaScript, CoffeeScript, Java, Ruby, C++, Git, Web Dev.
+- JavaScript (5)
+- CoffeeScript ( )
+- Java ( )
+- Ruby ( )
+- C++ ( )
+- Git (5)
+- Web Dev ( )
+
+_Resources_:
+
+
+---
 
 __[Scott Spittle](https://github.com/ScottSpittle)
 
