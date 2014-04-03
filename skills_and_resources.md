@@ -126,3 +126,69 @@ _Resources_:
 - Android Devices (Galaxy Note 10.1 and Galaxy Mini)
 - Mindstorms EV3
 - Kinect for Windows Device
+
+__[Chad Simpson](http://github.com/Drshockalot)__
+
+_Skills_:
+- C++ (4.5)
+- Java (4)
+- C# (3.5)
+- HTML (4)
+- CSS (3.5)
+- Javascript (3.5)
+- SQL (3.5)
+- PHP (4)
+- ASP.NET (2)
+
+_Resources_:
+- HTC One
+
+_Outstanding Attributes_:
+- American (5)
+
+
+__[Luke Blakeley](https://github.com/SlimShadyLou)__
+
+_Skills_:
+- C++ (3)
+- C# (3)
+- Android (2)
+- Java (2)
+- HTML/CSS (3)
+
+_Resources_:
+- Samsung Galaxy Note 3
+- Raspberry Pi
+- MacBook Air (Xcode)
+
+__[Shaun Webb](https://github.com/TehWebby)__
+
+_Skills_:
+- C++ (3)
+- C# and Unity (4.5, 3)
+- Java and Android (4, 3)
+- PHP (4)
+- HTML and CSS (5)
+- JavaScript and jQuery (4)
+- Linux (3)
+- Git (0.1337)
+
+_Resources_:
+- Android Devices (Nexus 10, Samsung Galaxy S3)
+- Raspberry Pi
+- Pololu 3pi
+- Arduino (UNO)
+- Web Server
+
+__[Joseph Tetzlaff-Deas](https://github.com/jtetzlaffdeas)__
+
+_Skills_:
+- C++ (2.5)
+- C# (2)
+- Unity, C# (2)
+- Java, Android (2)
+
+_Resources_:
+- An iPhone. An old one.
+- Raspberry Pi
+- The number 2
