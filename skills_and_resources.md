@@ -181,6 +181,7 @@ _Resources_:
 - Web Server
 
 __[Joseph Tetzlaff-Deas](https://github.com/jtetzlaffdeas)__
+
 _Skills_:
 - C++ (2.5)
 - C# (2)
